@@ -77,7 +77,7 @@
     "jest": "^27.0.6",
     "lint-staged": "^11.1.2",
     "mockdate": "^3.0.5",
-    "postcss": "^8.3.6",
+    "postcss": "^8.4.21",
     "prettier": "^2.3.2",
     "prisma": "^2.29.1",
     "tailwindcss": "^2.2.7",
